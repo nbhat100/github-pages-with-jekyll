@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Nihal's blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hello! In this blog I am going to talk about my favorite types of dogs
